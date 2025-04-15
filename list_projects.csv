@@ -1,0 +1,2 @@
+project,log_file,error_log_file
+example.com,/var/log/apache2/sites/example_com-443_custom,/var/log/apache2/sites/example_com-443_error
